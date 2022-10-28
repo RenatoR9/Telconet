@@ -13,7 +13,7 @@ public class Sumatoria {
 		
 		//array o nodo principal que va a contener numeros y arrays dentro del mismo para ello
 		// se inicializa este array principal como objeto
-		 ArrayList<Object> principal  =new ArrayList<>();
+		 ArrayList<Object> principal  =new ArrayList<>(); 
 		 principal.add(1);
 		 principal.add(2);//agregamos numeros 
 		 principal.add(3);

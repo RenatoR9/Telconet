@@ -13,7 +13,7 @@ public class Fibonacci {
 		
 		// la segunda entrada que es el limite para que se genere el fibonacci		
 		System.out.println("Ingrese limite: ");
-		int limite = lectura.nextInt();
+		int limite = lectura.nextInt(); 
 		
 		//declaramos 2 numeros que van a se tomados como valores iniciales
 		int num1 = 0;
